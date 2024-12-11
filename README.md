@@ -28,7 +28,7 @@ This project is a simple yet powerful chatbot application that mimics a WhatsApp
 1. Clone the repository.
     ```bash
     git clone https://github.com/your-username/whatsapp-like-chatbot.git
-    cd whatsapp-like-chatbot
+    cd WhatsApp-like-chatbot
     ```
 2. Install dependencies.
     ```bash
@@ -46,7 +46,7 @@ This project is a simple yet powerful chatbot application that mimics a WhatsApp
 
 ## Usage
 1. Type a message in the input field.
-2. Press Enter or click the send button to submit your message.
+2. Press Enter or click the Send button to submit your message.
 3. Wait for the chatbot to respond.
 
 ## File Structure
@@ -55,7 +55,7 @@ This project is a simple yet powerful chatbot application that mimics a WhatsApp
 - **script.js**: Handles chat functionalities and communication with the backend.
 
 ## Screenshots
-![Chatbot UI](screenshot1.png)
+![Chatbot UI](screenshot_UI.png)
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This open-source project is available under the [MIT License](LICENSE).
